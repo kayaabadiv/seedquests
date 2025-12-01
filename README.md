@@ -1,10 +1,13 @@
-<h1 align="center"> SeedQuests </h1>
+<h1 align="center">SeedQuests</h1>
 
-<div align="center">
-   ![Banner](https://raw.githubusercontent.com/kayaabadiv/seedquests/main/banner.png)
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kayaabadiv/seedquests/main/banner.png" alt="Banner">
+</p>
 
-Automatically complete Discord quests using BetterDiscord plugins.
+<p align="center">
+  <b>Automatically complete Discord quests using BetterDiscord plugins.</b>
+</p>
+
 
 ## 📋 Description
 
