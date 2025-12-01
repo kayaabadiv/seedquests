@@ -1,4 +1,4 @@
-# seedquests
+<h1 align="center"> SeedQuests </h1>
 
 ![Banner](https://raw.githubusercontent.com/kayaabadiv/seedquests/main/banner.png)
 
